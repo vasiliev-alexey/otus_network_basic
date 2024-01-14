@@ -3,7 +3,7 @@
 </h1>
 
 
-![](./homeworks/hw01/img/9dadd6f599e4424b91b42010c2596650.svg)
+![](./homeworks/hw01/img/9dadd6f599e4424b91b42010c2596650.svg.png)
 
 ---
 
