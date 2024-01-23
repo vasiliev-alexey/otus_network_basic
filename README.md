@@ -11,6 +11,8 @@
 <summary>Домашние задания</summary>
 
 1. [Базовая настройка коммутатора](./homeworks/hw01/README.md)
+2. [MAC-адреса сетевых устройств](./homeworks/hw02/README.md)
+
 
 
 </details>
