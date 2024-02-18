@@ -13,6 +13,7 @@
 1. [Базовая настройка коммутатора](./homeworks/hw01/README.md)
 2. [MAC-адреса сетевых устройств](./homeworks/hw02/README.md)
 3. [Расчет подсетей IPv4](./homeworks/hw03/README.md)
+5. [Доступ к сетевым устройствам по протоколу SSH](./homeworks/hw05/README.md)
 
 
 
