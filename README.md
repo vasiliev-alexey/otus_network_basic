@@ -2,8 +2,7 @@
 <a href="https://otus.ru/lessons/setevoy-inzhener-basic/">Network Engineer. Basic</a>
 </h1>
 
-
-![](./homeworks/hw01/img/9dadd6f599e4424b91b42010c2596650.svg.png)
+<img src="./homeworks/img/main_img.jpg" alt="drawing" width="200"/>
 
 ---
 
@@ -14,7 +13,7 @@
 2. [MAC-адреса сетевых устройств](./homeworks/hw02/README.md)
 3. [Расчет подсетей IPv4](./homeworks/hw03/README.md)
 4. [Настройка IPv6-адресов на сетевых устройствах](./homeworks/hw04/README.md)
-
+5. [Доступ к сетевым устройствам по протоколу SSH](./homeworks/hw05/README.md)
 
 
 </details>
