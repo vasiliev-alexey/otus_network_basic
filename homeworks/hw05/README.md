@@ -19,6 +19,7 @@
 
 <details>
 <summary>Шаг 1. Создайте сеть согласно топологии.</summary>
+
 ![](./img/p1_s1.png)
 </details>
 
