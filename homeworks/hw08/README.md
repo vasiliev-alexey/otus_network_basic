@@ -430,7 +430,7 @@ VLAN Name                             Status    Ports
 
 #### Часть 2. Настройка и проверка двух серверов DHCPv4 на R1
 <details>
-<summary>ы</summary>
+<summary>Шаг 1. Настройте R1 с пулами DHCPv4 для двух поддерживаемых подсетей. Ниже приведен только пул DHCP для подсети A</summary>
 
 **R1**
 
