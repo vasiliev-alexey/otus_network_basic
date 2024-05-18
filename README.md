@@ -19,5 +19,6 @@
 8. [Реализация DHCPv4/6](./homeworks/hw08/README.md)
 9. [Конфигурация безопасности коммутатора](./homeworks/hw09/README.md)
 10. [Настройка протокола OSPFv2 для одной области](./homeworks/hw10/README.md)
+11. [Настройка и проверка расширенных списков контроля доступа](./homeworks/hw11/README.md)
 
 </details>
