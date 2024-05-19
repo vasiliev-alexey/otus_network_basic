@@ -19,5 +19,6 @@
 8. [Реализация DHCPv4/6](./homeworks/hw08/README.md)
 9. [Конфигурация безопасности коммутатора](./homeworks/hw09/README.md)
 10. [Настройка протокола OSPFv2 для одной области](./homeworks/hw10/README.md)
+12. [Настройка NAT для IPv4](./homeworks/hw12/README.md)
 
 </details>
