@@ -21,5 +21,6 @@
 10. [Настройка протокола OSPFv2 для одной области](./homeworks/hw10/README.md)
 11. [Настройка и проверка расширенных списков контроля доступа](./homeworks/hw11/README.md)
 12. [Настройка NAT для IPv4](./homeworks/hw12/README.md)
+13. [Настройка протоколов CDP, LLDP и NTP](./homeworks/hw13/README.md)
 
 </details>
